@@ -32,103 +32,104 @@
 
 # `BOTON DE:` <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />      
 ```bash
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ejemplo@gmail.com)
 ```
+
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" />
 ```bash
-https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white
+[![GroupMe](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" /> 
 ```bash
-https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425
+[![icq_new](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white
+[![Kik](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
+[![line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
 ```bash
-https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white
+[![matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+[![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 ```bash
-https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white
+[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src ="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white
+[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" />
 ```bash
-https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white
+[![Viber](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 ```bash
-https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white
+[![weChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 ```bash
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 ```bash
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Link)
 ```
 -----------------
 
 # `BOTON DE:` <img img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" />
 ```bash
-https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white
+[![Wire](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)](Link)
 ```
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
